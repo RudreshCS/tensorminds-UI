@@ -36,7 +36,7 @@ export default function HardwareSolutionsPage() {
           <div className="border-2 border-primary rounded-3xl overflow-hidden flex flex-col h-full">
             <div className="relative h-52">
               <Image
-                src="/assets/iot.jpg"
+                src="/Assets/iot.jpg"
                 alt="Custom Board Design"
                 fill
                 className="object-cover"
@@ -77,7 +77,7 @@ export default function HardwareSolutionsPage() {
           <div className="border-2 border-primary rounded-3xl overflow-hidden flex flex-col h-full">
             <div className="relative h-52">
               <Image
-                src="/assets/iot.jpg"
+                src="/Assets/iot.jpg"
                 alt="SVB EVM Starter Kits"
                 fill
                 className="object-cover"
@@ -114,7 +114,7 @@ export default function HardwareSolutionsPage() {
           <div className="border-2 border-primary rounded-3xl overflow-hidden flex flex-col h-full">
             <div className="relative h-52">
               <Image
-                src="/assets/iot.jpg"
+                src="/Assets/iot.jpg"
                 alt="Module Based Design"
                 fill
                 className="object-cover"

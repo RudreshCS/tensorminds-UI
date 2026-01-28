@@ -36,7 +36,7 @@ export default function EmbeddedSolutionsPage() {
           <div className="border-2 border-primary rounded-3xl overflow-hidden flex flex-col h-full">
             <div className="relative h-52">
               <Image
-                src="/assets/iot.jpg"
+                src="/Assets/iot.jpg"
                 alt="Board Design"
                 fill
                 className="object-cover"
@@ -85,7 +85,7 @@ export default function EmbeddedSolutionsPage() {
           <div className="border-2 border-primary rounded-3xl overflow-hidden flex flex-col h-full">
             <div className="relative h-52">
               <Image
-                src="/assets/iot.jpg"
+                src="/Assets/iot.jpg"
                 alt="Embedded Software"
                 fill
                 className="object-cover"
@@ -134,7 +134,7 @@ export default function EmbeddedSolutionsPage() {
           <div className="border-2 border-primary rounded-3xl overflow-hidden flex flex-col h-full">
             <div className="relative h-52">
               <Image
-                src="/assets/iot.jpg"
+                src="/Assets/iot.jpg"
                 alt="Firmware Development"
                 fill
                 className="object-cover"

@@ -154,7 +154,7 @@ export default function ContactPage() {
 >
  <div className="w-full rounded-2xl overflow-hidden">
   <img
-    src="/assets/icon.jpg"
+    src="/Assets/icon.jpg"
     alt="Connect with Tensorminds"
     className="
       w-full

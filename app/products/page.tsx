@@ -10,7 +10,7 @@ const products = [
     subtitle: 'End-to-End Engineering',
     description:
       'We offer complete embedded product design services including system architecture, hardware design, firmware development, validation, and production support across multiple industries.',
-    image: '/assets/embbeded.jpg',
+    image: '/Assets/embbeded.jpg',
     imagePosition: 'right',
   },
   {
@@ -19,7 +19,7 @@ const products = [
     subtitle: 'PCB & Electronics',
     description:
       'Our hardware design services cover schematic design, multi-layer PCB layout, signal integrity analysis, power optimization, EMI/EMC compliance, and prototype bring-up.',
-    image: '/assets/embbeded.jpg',
+    image: '/Assets/embbeded.jpg',
     imagePosition: 'left',
   },
   {
@@ -28,7 +28,7 @@ const products = [
     subtitle: 'Low-level to Application',
     description:
       'We develop robust firmware and software solutions including bare-metal, RTOS, Embedded Linux, drivers, middleware, and application-level software.',
-    image: '/assets/embbeded.jpg',
+    image: '/Assets/embbeded.jpg',
     imagePosition: 'right',
   },
   {
@@ -37,7 +37,7 @@ const products = [
     subtitle: 'Enclosures & Thermal',
     description:
       'Our mechanical design team delivers industrial design, enclosure modeling, thermal analysis, material selection, and DFM-ready designs for mass production.',
-    image: '/assets/embbeded.jpg',
+    image: '/Assets/embbeded.jpg',
     imagePosition: 'left',
   },
 ];

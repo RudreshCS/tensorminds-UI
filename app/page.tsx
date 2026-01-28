@@ -20,7 +20,7 @@ export default function HomePage() {
               className="w-full lg:w-5/12 flex justify-center"
             >
               <Image
-                src="/assets/mind.jpg"
+                src="/Assets/mind.jpg"
                 alt="Tensorminds"
                 width={480}
                 height={480}
@@ -89,7 +89,7 @@ export default function HomePage() {
               <Link href={item.href}>
                 <div className="cursor-pointer rounded-3xl overflow-hidden shadow-lg hover:scale-[1.03] transition">
                   <Image
-                    src="/assets/hardware.jpg"
+                    src="/Assets/hardware.jpg"
                     alt={item.title}
                     width={400}
                     height={260}
@@ -152,7 +152,7 @@ export default function HomePage() {
           viewport={{ once: true }}
         >
           <Image
-            src="/assets/iot.jpg"
+            src="/Assets/iot.jpg"
             alt="CTA"
             width={520}
             height={420}

@@ -37,7 +37,7 @@ export default function FirmwareSolutionsPage() {
           <div className="border-2 border-primary rounded-3xl overflow-hidden flex flex-col h-full">
             <div className="relative h-52">
               <Image
-                src="/assets/iot.jpg"
+                src="/Assets/iot.jpg"
                 alt="Strategy & UX"
                 fill
                 className="object-cover"
@@ -63,7 +63,7 @@ export default function FirmwareSolutionsPage() {
           <div className="border-2 border-primary rounded-3xl overflow-hidden flex flex-col h-full">
             <div className="relative h-52">
               <Image
-                src="/assets/iot.jpg"
+                src="/Assets/iot.jpg"
                 alt="Software Development"
                 fill
                 className="object-cover"
@@ -89,7 +89,7 @@ export default function FirmwareSolutionsPage() {
           <div className="border-2 border-primary rounded-3xl overflow-hidden flex flex-col h-full">
             <div className="relative h-52">
               <Image
-                src="/assets/iot.jpg"
+                src="/Assets/iot.jpg"
                 alt="Support & Maintenance"
                 fill
                 className="object-cover"
@@ -115,7 +115,7 @@ export default function FirmwareSolutionsPage() {
           <div className="border-2 border-primary rounded-3xl overflow-hidden flex flex-col h-full">
             <div className="relative h-52">
               <Image
-                src="/assets/iot.jpg"
+                src="/Assets/iot.jpg"
                 alt="Industrial Automation"
                 fill
                 className="object-cover"

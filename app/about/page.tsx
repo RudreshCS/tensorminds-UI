@@ -276,7 +276,7 @@ export default function AboutPage() {
 >
   <div className="border-2 border-primary rounded-3xl p-2 h-full w-full">
     <img
-      src="/assets/banner.jpg"
+      src="/Assets/banner.jpg"
       alt="Our Team"
       className="rounded-2xl object-cover w-full h-full"
     />

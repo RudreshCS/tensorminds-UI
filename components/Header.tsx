@@ -42,7 +42,7 @@ export default function Header() {
             {/* Logo */}
             <div className="flex items-center gap-3">
               <Image
-                src="/assets/icon.jpg"
+                src="/Assets/icon.jpg"
                 alt="Tensorminds Logo"
                 width={40}
                 height={40}
