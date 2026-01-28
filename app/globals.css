@@ -1,0 +1,61 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Global custom styles matching your original CSS */
+@layer base {
+  body {
+    @apply bg-white text-gray-900;
+  }
+  
+  h2, h3 {
+    @apply text-center font-extrabold text-accent-purple;
+  }
+  
+  h4 {
+    @apply font-extrabold text-2xl;
+  }
+}
+
+@layer components {
+  /* Logo styling */
+  .logo {
+    @apply h-[60px] w-[60px] rounded-full mr-2.5;
+  }
+
+  /* Navigation active state */
+  .nav-link-active {
+    @apply bg-accent-blue;
+  }
+
+  /* Carousel image sizing */
+  .carousel-img {
+    @apply h-[500px] w-full object-cover;
+  }
+
+  /* Contact section */
+  .contact-container {
+    @apply w-full h-auto min-h-[500px];
+  }
+
+  .address-text {
+    @apply text-center text-xl;
+  }
+
+  /* Custom shadow for cards */
+  .card-shadow {
+    @apply shadow-lg hover:shadow-2xl transition-shadow duration-300;
+  }
+
+  /* Border accent */
+  .border-accent {
+    @apply border-2 border-primary;
+  }
+}
+
+/* Custom animations */
+@layer utilities {
+  .text-shadow-1 {
+    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+  }
+}
